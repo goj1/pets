@@ -38,23 +38,12 @@ dependencies:
   mobx: ^2.0.7+4
   flutter_mobx: ^2.0.6+1
   get_it: ^7.2.0
-  carousel_slider: ^4.1.1
   line_awesome_flutter: ^2.0.0
-  shared_preferences: ^2.0.15
-  url_launcher: ^6.1.5
-  cached_network_image: ^3.2.1
   http: ^0.13.5
   internet_connection_checker: ^1.0.0+1
   intl: ^0.18.0
-  share_plus: ^6.3.4
-  permission_handler: ^10.0.0
-  easy_localization: ^3.0.1
   floor: ^1.4.2
   connectivity_plus: ^5.0.1
-  flutter_native_splash: ^2.3.2
-  flutter_svg: ^2.0.7
-  flutter_rating_bar: ^4.0.1
-  equatable: ^2.0.5
   flutter_animate: ^4.2.0+1
 
 dev_dependencies:

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:pets/feature/home/ui/pages/home_page.dart';
-import 'package:pets/feature/load/ui/pages/load_page.dart';
-import 'package:pets/feature/login/ui/pages/login_page.dart';
-import 'package:pets/feature/onboarding/ui/pages/onboarding_page.dart';
-import 'package:pets/feature/pet/ui/pages/pet_page.dart';
+import 'package:pets/features/home/ui/pages/home_page.dart';
+import 'package:pets/features/load/ui/pages/load_page.dart';
+import 'package:pets/features/login/ui/pages/login_page.dart';
+import 'package:pets/features/onboarding/ui/pages/onboarding_page.dart';
+import 'package:pets/features/pet/ui/pages/pet_page.dart';
 import 'package:pets/infra/factories/navigation/pages.dart';
 
 abstract class NavigatorPages {

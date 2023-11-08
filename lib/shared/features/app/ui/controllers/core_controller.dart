@@ -1,5 +1,5 @@
 import 'package:mobx/mobx.dart';
-import 'package:pets/feature/login/domain/usecases/sign_out_user_usecase.dart';
+import 'package:pets/features/login/domain/usecases/sign_out_user_usecase.dart';
 import 'package:pets/shared/features/app/domain/usecases/get_logged_user_usecase.dart';
 import 'package:pets/infra/factories/http/result_wrapper.dart';
 import 'package:pets/infra/store/providers.dart';
