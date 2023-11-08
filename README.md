@@ -28,7 +28,7 @@ flutter pub get
 flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 
-Para executar o aplicativo siga leia este link:
+Para executar o aplicativo siga este link:
 ```
 https://docs.flutter.dev/get-started/test-drive?tab=androidstudio
 ```
